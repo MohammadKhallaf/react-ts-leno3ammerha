@@ -1,0 +1,15 @@
+# Ignore artifacts:
+build
+
+node_modules
+.DS_Store
+dist
+dist-ssr
+*.local
+node_modules/*
+.eslintrc*
+.prettierrc
+vite-env.d.ts
+vite.config.ts
+
+README.md
